@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/luis2ra/luis2ra-random-str-msg-testing-npm/issues"
   },
-  "homepage": "https://github.com/luis2ra/luis2ra-random-str-msg-testing-npm#readme"
+  "homepage": "https://github.com/luis2ra/luis2ra-random-str-msg-testing-npm#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
 }
