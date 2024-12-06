@@ -1,6 +1,6 @@
 {
   "name": "luis2ra-random-str-msg-testing-npm",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Random string messages to NPM management",
   "main": "index.js",
   "scripts": {
